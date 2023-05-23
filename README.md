@@ -12,3 +12,6 @@ Una volta create le classi che descrivono il nostro sistema, instanziate prima t
 
 
 ### STEPS:
+1. Creo una classe 'Prodotto', dove inserisco gli attributi;
+
+2. Creo le classi per ogni prodotto(cibo, giochi e accessori)
